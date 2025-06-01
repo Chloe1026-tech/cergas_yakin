@@ -1,0 +1,57 @@
+/* About Section */
+.about-section {
+    margin-bottom: 60px;
+}
+
+.about-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 40px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.about-image {
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.about-image {
+    background-color: #f1fdf5;
+    padding: 16px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.about-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #555;
+}
+
+.about-text p {
+    margin-bottom: 20px;
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .about-content {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    
+    .about-image {
+        height: 250px;
+    }
+    
+    .values-grid,
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+}
