@@ -36,11 +36,9 @@
 }
 
 .product-card h4 {
-  padding: 20px 20px 10px;   /* Top padding added */
-  font-size: 1.2rem;
-  color: #333;
-  margin: 0;
-  border-top: 1px solid #eee; /* Optional: thin separator line */
+    padding: 15px 20px 10px;
+    font-size: 1.2rem;
+    color: #333;
 }
 
 .product-card p {
@@ -54,7 +52,6 @@
     max-width: 100%;
     height: auto;
     display: block;
-    margin-bottom: 10px;
 }
 
 
@@ -70,5 +67,5 @@
   .product-card p {
     font-size: 0.85rem;
   }
-  
+
 }
