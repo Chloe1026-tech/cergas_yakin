@@ -49,9 +49,10 @@
 }
 
 .product-image img {
-    max-width: 100%;
-    height: auto;
-    display: block;
+  width: 100%;
+  max-height: 180px;
+  height: auto;
+  object-fit: contain;
 }
 
 .product-availability-note{
@@ -64,16 +65,18 @@
 
 
 @media (max-width: 480px) {
-  .product-image {
-    height: 150px;
-  }
 
-  .product-card h4 {
-    font-size: 1rem;
-  }
+  .product-grid {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
 
-  .product-card p {
-    font-size: 0.85rem;
-  }
+.product-card h4 {
+  font-size: 1rem;
+}
+
+.product-image {
+  padding: 5px;
+}
 
 }
