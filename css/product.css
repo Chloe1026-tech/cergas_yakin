@@ -54,6 +54,14 @@
     display: block;
 }
 
+.product-availability-note{
+  color: black;
+  text-align: center;
+  font-size: 20px;
+  font-style: Arial;
+  font-weight: bold;
+}
+
 
 @media (max-width: 480px) {
   .product-image {
