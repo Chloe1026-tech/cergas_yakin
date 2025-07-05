@@ -39,6 +39,8 @@
 .product-card h4 {
     padding: 15px 20px 10px;
     font-size: 1.2rem;
+    margin-top: auto;
+    min-height: 50px;
     color: #333;
 }
 
