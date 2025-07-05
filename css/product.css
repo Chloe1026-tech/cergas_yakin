@@ -32,7 +32,7 @@
     align-items: center;
     justify-content: center;
     padding: 10;                /* Remove extra spacing */
-    height: 180px;              /* Let the image define the height */
+    height: 200px;              /* Let the image define the height */
 }
 
 .product-image.placeholder::after {
