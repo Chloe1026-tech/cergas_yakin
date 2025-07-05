@@ -22,12 +22,11 @@
 }
 
 .product-image {
-    background-color: #ffffff; /* Pure white, same as image background */
+    background-color: #ffffff;
+    height: 220px; /* consistent height */
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0;                /* Remove extra spacing */
-    height: auto;              /* Let the image define the height */
 }
 
 .product-image.placeholder::after {
@@ -50,10 +49,9 @@
 }
 
 .product-image img {
-    width: 100%;
-    height: auto;
+    max-height: 100%;
+    max-width: 100%;
     object-fit: contain;
-    display: block;
 }
 
 .product-availability-note{
