@@ -27,7 +27,7 @@
     align-items: center;
     justify-content: center;
     padding: 0;                /* Remove extra spacing */
-    height: 220px;              /* Let the image define the height */
+    height: 180px;              /* Let the image define the height */
 }
 
 .product-image.placeholder::after {
