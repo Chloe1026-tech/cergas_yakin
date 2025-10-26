@@ -1,7 +1,7 @@
 const products = [
   {
     name: "Dish Wash",
-    image: "images/Dish_wash.jpg"
+    image: "images/Dish wash(new label).jpg"
   },
 
   {
@@ -38,6 +38,22 @@ const products = [
     name: "Toilet Cleaner",
     image: "images/Toilet_cleaner.jpg"
   },
+
+  {
+    name: "Floor Cleaner(PINE JELLY)",
+    image: "images/Floor Cleaner(PINE JELLY).jpg"
+  },
+
+ {
+    name: "Glass & Mirror Cleaner",
+    image: "images/mirro cleaner.jpg"
+  },
+
+  {
+    name: "Engine Degreaser",
+    image: "images/Engine Degreaser.jpg"
+  },
+
 
   {
     name: "Hand Sanitizer(Gel or Liquid)",
