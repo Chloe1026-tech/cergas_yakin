@@ -5,6 +5,16 @@ const products = [
   },
 
    {
+    name: "Bleach Water",
+    image: "images/Bleach_water.jpg"
+   },
+
+   {
+    name: "Floor Cleaner",
+    image: "images/Floor_cleaner.jpg"
+   },
+
+   {
     name: "Toilet Cleaner",
     image: "images/Toilet_cleaner.jpg"
    },
@@ -37,12 +47,6 @@ const products = [
   },
 
   {
-    name: "Floor Cleaner",
-    image: "images/Floor_cleaner.jpg"
-  },
-
-
-  {
     name: "Softlan",
     image: "images/Softlan.jpg"
   },
@@ -59,11 +63,6 @@ const products = [
     image: "images/Engine Degreaser.jpg"
   },
 
-  {
-    name: "Bleach Water",
-    image: "images/Bleach_water.jpg"
-  },
-
 
   {
     name: "Hand Sanitizer(Gel or Liquid)",
@@ -77,6 +76,7 @@ const products = [
 
 
 ];
+
 
 
 
