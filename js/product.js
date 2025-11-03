@@ -41,7 +41,7 @@ const products = [
 
   {
     name: "Floor Cleaner(PINE JELLY)",
-    image: "images/Floor cleaner(PINE JELLY).jpg"
+    image: "images/Floor_cleaner_PINE JELLY.jpg"
   },
 
  {
@@ -72,6 +72,7 @@ const products = [
 
 
 ];
+
 
 
 
