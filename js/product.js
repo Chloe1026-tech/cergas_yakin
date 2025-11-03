@@ -4,26 +4,25 @@ const products = [
     image: "images/Dish wash(new label).jpg"
   },
 
-   {
+  {
     name: "Bleach Water",
     image: "images/Bleach_water.jpg"
-   },
+  },
 
-   {
+  {
     name: "Floor Cleaner",
     image: "images/Floor_cleaner.jpg"
-   },
+  },
 
-   {
+  {
     name: "Toilet Cleaner",
     image: "images/Toilet_cleaner.jpg"
-   },
+  },
 
   {
     name: "Serai Wangi",
     image: "images/Serai Wangi.jpg"
   },
-
 
   {
     name: "Laundry Detergent",
@@ -39,7 +38,6 @@ const products = [
     name: "Glass & Mirror Cleaner",
     image: "images/mirro cleaner.jpg"
   },
-
 
   {
     name: "Multipurpose Cleaner",
@@ -76,6 +74,7 @@ const products = [
 
 
 ];
+
 
 
 
