@@ -1,79 +1,82 @@
 const products = [
   {
     name: "Dish Wash",
-    image: "Dish wash(new label).jpg"
+    image: "images/Dish wash(new label).jpg"
   },
 
-  {
-    name: "Floor Cleaner",
-    image: "Floor_cleaner.jpg"
-  },
+   {
+    name: "Toilet Cleaner",
+    image: "images/Toilet_cleaner.jpg"
+   },
 
   {
-    name: "Bleach Water",
-    image: "Bleach_water.jpg"
+    name: "Serai Wangi",
+    image: "images/Serai Wangi.jpg"
   },
+
 
   {
     name: "Laundry Detergent",
-    image: "Laundry.jpg"
+    image: "images/Laundry.jpg"
   },
 
   {
     name: "Machine Washing",
-    image: "Machine_washing.jpg"
+    image: "images/Machine_washing.jpg"
   },
+
+  {
+    name: "Glass & Mirror Cleaner",
+    image: "images/mirro cleaner.jpg"
+  },
+
 
   {
     name: "Multipurpose Cleaner",
-    image: "Multipurpose.jpg"
+    image: "images/Multipurpose.jpg"
   },
+
+  {
+    name: "Floor Cleaner",
+    image: "images/Floor_cleaner.jpg"
+  },
+
 
   {
     name: "Softlan",
-    image: "Softlan.jpg"
+    image: "images/Softlan.jpg"
   },
+
 
   {
-    name: "Toilet Cleaner",
-    image: "Toilet_cleaner.jpg"
+    name:  "Floor Cleaner-PINE JELLY",
+    image: "images/floor_cleaner_PINE_JELLY.jpg"
   },
 
-
-
- {
-    name: "Glass & Mirror Cleaner",
-    image: "mirro cleaner.jpg"
-  },
 
   {
     name: "Engine Degreaser",
-    image: "Engine Degreaser.jpg"
+    image: "images/Engine Degreaser.jpg"
   },
 
   {
-    name: "Serai Wangi",
-    image: "Serai Wangi.jpg"
+    name: "Bleach Water",
+    image: "images/Bleach_water.jpg"
   },
 
 
   {
     name: "Hand Sanitizer(Gel or Liquid)",
-    image: "Hand_sanitizer.jpg"
+    image: "images/Hand_sanitizer.jpg"
   },
 
   {
     name: "Disinfectant",
-    image: "Disinfectant.jpg"
+    image: "images/Disinfectant.jpg"
   },
 
 
 ];
-
-
-
-
-
 
 
 
