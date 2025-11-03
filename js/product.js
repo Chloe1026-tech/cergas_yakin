@@ -39,10 +39,7 @@ const products = [
     image: "images/Toilet_cleaner.jpg"
   },
 
-  {
-    name: "Floor Cleaner(PINE JELLY)",
-    image: "Floor_cleaner_PINE_JELLY.jpg"
-  },
+
 
  {
     name: "Glass & Mirror Cleaner",
@@ -72,6 +69,7 @@ const products = [
 
 
 ];
+
 
 
 
