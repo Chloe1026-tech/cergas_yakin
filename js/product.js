@@ -54,6 +54,11 @@ const products = [
     image: "images/Engine Degreaser.jpg"
   },
 
+  {
+    name: "Serai Wangi",
+    image: "images/Serai Wangi.jpg"
+  },
+
 
   {
     name: "Hand Sanitizer(Gel or Liquid)",
@@ -67,5 +72,6 @@ const products = [
 
 
 ];
+
 
 
