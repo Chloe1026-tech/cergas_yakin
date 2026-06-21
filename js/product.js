@@ -46,7 +46,7 @@ const products = [
 
   {
     name: "Multipurpose Cleaner/25 Litres",
-    image: "images/multipurpose_25litre.jpg"
+    image: "images/multipurpose_25litres.png"
   },
 
 
