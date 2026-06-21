@@ -45,6 +45,12 @@ const products = [
   },
 
   {
+    name: "Multipurpose Cleaner/25 Litres",
+    image: "images/Multipurpose_25litre.jpg"
+  },
+
+
+  {
     name: "Softlan",
     image: "images/Softlan.jpg"
   },
@@ -71,6 +77,12 @@ const products = [
     name: "Disinfectant",
     image: "images/Disinfectant.jpg"
   },
+
+ {
+    name: "Stainless Steel Cleaner",
+    image: "images/stainless_steel_cleaner.jpg"
+  },
+
 
 
 ];
