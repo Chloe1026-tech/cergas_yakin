@@ -46,7 +46,7 @@ const products = [
 
   {
     name: "Multipurpose Cleaner/25 Litres",
-    image: "images/Multipurpose_25litre.jpg"
+    image: "images/Multipurpose_25litre.jpeg"
   },
 
 
@@ -80,7 +80,7 @@ const products = [
 
  {
     name: "Stainless Steel Cleaner",
-    image: "images/stainless_steel_cleaner.jpg"
+    image: "images/stainless_steel_cleaner.jpeg"
   },
 
 
