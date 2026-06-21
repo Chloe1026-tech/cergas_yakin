@@ -67,6 +67,10 @@ const products = [
     image: "images/Engine Degreaser.jpg"
   },
 
+  { 
+    name: "Stainless Steel Cleaner",
+    image: "images/stainless_steel_cleaner.jpg"
+  },
 
   {
     name: "Hand Sanitizer(Gel or Liquid)",
@@ -78,10 +82,6 @@ const products = [
     image: "images/Disinfectant.jpg"
   },
 
- {
-    name: "Stainless Steel Cleaner",
-    image: "images/stainless_steel_cleaner.jpg"
-  },
 
 
 
